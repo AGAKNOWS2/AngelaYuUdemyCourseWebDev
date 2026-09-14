@@ -1,0 +1,29 @@
+h1{
+    font-family:Regular Libre Baskerville;
+    color: white;
+}
+h2{
+    font-family: Regular Libre Baskervill;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.background{
+    margin-left:25%;
+    margin-top:100px;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    padding: 1%;
+    text-align: center;
+    width: 50%;
+    
+    
+    
+}
+img{
+    width: 100%;
+    margin:0;
+    padding: 0;
+}
